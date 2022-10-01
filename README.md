@@ -1,5 +1,5 @@
 # CanvasAPI
-Examples uploading a profile picture to Canvas LMS API
+Examples uploading a profile picture using Canvas LMS API
 - Java 8  ( using module OKHttp )
 - Java 19 ( using native java.net.http )
 - Ruby
